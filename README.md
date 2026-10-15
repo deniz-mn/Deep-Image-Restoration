@@ -197,8 +197,4 @@ These are proposed extensions, not implemented features:
 - Add paired spatial augmentation and test higher-resolution restoration.
 - Pin dependencies and the dataset revision, publish a trained checkpoint, and add a standalone inference entry point.
 
-## Project context and attribution
 
-Developed as a group final project for **Fundamentals of Computer Vision**, taught by **Dr. Seifipour**. The notebook and report credit **Abbas Khoshdooni Farahani**, **Deniz Mostafazadeghan**, and **Sajjad Taghizade**.
-
-The repository documents the team's implementation and results, but does not specify who implemented each component. Individual portfolio contributions should be added after confirming the division of work.
